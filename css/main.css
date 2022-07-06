@@ -6,9 +6,12 @@ html {
     padding: 0;
 }
 body {
+    margin: 0;
+    padding: 0;
     width: 100wh;
     max-width: 100wh;
     height: 100vh;
+    min-height: 100vh;
     max-height: 100vh;
     background-image: url('https://fenixempire.net.br/loading-page/images/background.png');
     background-repeat: no-repeat;
@@ -16,4 +19,7 @@ body {
     background-attachment: fixed;
     background-color: black;
     font-family: 'Quicksand', sans-serif;
+}
+h1, h2, h3, span {
+    color: #cc740f;
 }
