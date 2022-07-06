@@ -12,6 +12,8 @@ body {
     max-height: 100vh;
     background-image: url('https://fenixempire.net.br/loading-page/images/background.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-color: black;
     font-family: 'Quicksand', sans-serif;
 }
