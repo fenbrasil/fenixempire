@@ -1,0 +1,17 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100wh;
+    max-width: 100wh;
+    height: 100vh;
+    max-height: 100vh;
+    background-image: url('https://fenixempire.net.br/loading-page/images/background.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: 'Quicksand', sans-serif;
+}
